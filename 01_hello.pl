@@ -1,8 +1,10 @@
-use strict;
-use warnings;
-use diagnostics;
-use feature 'say';
+#!/usr/bin/perl
+#
+#use strict;
+#use warnings;
+#use diagnostics;
+#use feature 'say';
 
-use feature 'switch';
+#use feature 'switch';
 
 print "Hello World\n"
